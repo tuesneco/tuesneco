@@ -1,4 +1,4 @@
-### Hi there 👋
+###你好👋，我是tuesneco，初来乍到，请多关照！
 
 <!--
 **tuesneco/tuesneco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
